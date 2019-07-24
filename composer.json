@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "approvals/approval-tests": "^1.4"
+    }
+}
